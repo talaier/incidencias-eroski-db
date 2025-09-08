@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "referencia": "2404-01",
+    "centro": "Eroski Binissalem I (6705)",
+    "solicitadoPor": "operario",
+    "descripcion": "Fuga de agua en baño",
+    "materiales": "Tubo PVC, pegamento",
+    "foto": "",
+    "fechaApertura": "2024-04-05T10:00:00Z",
+    "fechaCierre": "",
+    "cerrada": false
+  }
+]
